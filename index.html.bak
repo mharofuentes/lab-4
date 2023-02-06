@@ -44,12 +44,14 @@
 	<div><label><input type="checkbox" name="available_field[]" vaule="Saturday"</label></div>
 	<div><label><input type="checkbox" name="available_field[]" vaule="Sunday"</label></div>
 	<h3>Comments</h3>
-	<textarea name="comments_field"><textarea>
-	</div>
+	<textarea name="comments_field"></textarea>
+  </div>
   </fieldset>
-<input type="hidden" name="hidden_field" value="mharo">
-<input type="submit>
-</form>
+  <input type="hidden" name="hidden_field" value="mharofuentes">
+  <input type="submit>
+  </form>
+ </body>
+ </html>
 
 	
 
